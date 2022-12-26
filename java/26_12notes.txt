@@ -1,0 +1,7 @@
+installation: https://www.youtube.com/watch?v=AEZBLnGZyew&t=120s
+just refer: http://helloworldcollection.de/
+java features: https://www.youtube.com/watch?v=ZuDmSzORI0Y
+exercise to do: https://www.w3schools.com/java/exercise.asp?filename=exercise_syntax1
+
+JDK -> java development kit
+ide -> integrated development environment
