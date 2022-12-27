@@ -76,3 +76,6 @@ https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
 TASKS:
 
 Exercises: https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types1
+
+
+TEAM, TODAY'S CODE UPLOADED HERE: https://github.com/ragaPriya224/b1_qualitas/tree/master/java/src/demo
