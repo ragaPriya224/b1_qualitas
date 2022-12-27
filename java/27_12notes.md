@@ -1,6 +1,6 @@
 Installation video: https://www.youtube.com/watch?v=AEZBLnGZyew&t=120s
 
-just see: C:/Users/ragap/Downloads/Programming_6YearOld_.pdf
+just see: https://github.com/ragaPriya224/b1_qualitas/blob/master/java/Programming_6YearOld.pdf
 
 just see, don't mug anything: http://helloworldcollection.de/
 
@@ -10,7 +10,7 @@ features: https://www.youtube.com/watch?v=ZuDmSzORI0Y
 
 interview qn: y java platform independent?  https://www.youtube.com/shorts/yVnsyVXeLfc
 
-compiler:  C:/Users/ragap/Downloads/compiler%20(2).pdf
+compiler: https://github.com/ragaPriya224/b1_qualitas/blob/master/java/compiler.pdf
 
 compiler & interpreter:  https://www.youtube.com/watch?v=G81hoJTvQVg&t=12s
 
