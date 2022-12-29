@@ -66,7 +66,10 @@ https://www.w3schools.com/java/java_switch.asp
 
 
 TASKS:
+---------
+
 string tasks:
+
 The following code should replace lol in the message with laugh out loud and print the new message.
 
       public class Test1{
